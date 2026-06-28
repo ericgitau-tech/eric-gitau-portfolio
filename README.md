@@ -1,8 +1,6 @@
-# Eric Ngaruiya Gitau — Portfolio
+# Eric Ngaruiya Gitau Portfolio
 
 Personal portfolio website for **Eric Ngaruiya Gitau**, Web Developer & Cloud Engineer.
-
-🔗 **Live site:** _add your GitHub Pages URL here once enabled_
 
 ## About
 
@@ -27,8 +25,8 @@ This is a single-page portfolio built with plain HTML, CSS, and JavaScript — n
 No installation needed:
 
 ```bash
-git clone https://github.com/ericgitau-tech/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/ericgitau-tech/eric-gitau-portfolio.git
+cd <https://github.com/ericgitau-tech/eric-gitau-portfolio.git>
 open index.html   # or just double-click the file
 ```
 
